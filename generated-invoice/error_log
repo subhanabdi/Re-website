@@ -1,0 +1,10 @@
+[16-Sep-2021 19:07:23 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'interons_ronline'@'192.185.98.154' (using password: YES) in /home2/resumeonlinepro/public_html/generated-invoice/index.php on line 186
+[16-Sep-2021 19:07:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/resumeonlinepro/public_html/generated-invoice/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home2/resumeonlinepro/public_html/generated-invoice/index.php on line 186
+[16-Sep-2021 19:08:28 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'interons_ronline'@'192.185.98.154' (using password: YES) in /home2/resumeonlinepro/public_html/generated-invoice/index.php on line 186
+[16-Sep-2021 19:08:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function custom_die() in /home2/resumeonlinepro/public_html/generated-invoice/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home2/resumeonlinepro/public_html/generated-invoice/index.php on line 186
